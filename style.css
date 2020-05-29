@@ -1,0 +1,74 @@
+.navbar{
+    background-color: #FFD600 !important; 
+     
+}
+
+.nav-item active{
+    color: black !important;
+}
+
+form{
+    display: flex;
+    font-size: small;
+}
+
+.navbar-nav{
+    color: black !important;
+}
+
+
+.card_1,.card_2,.card_3{
+    width: 33.33%;
+    height: 160px;
+    border: 2px solid black;
+    margin-top: 2px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+.text{
+    text-align: center;
+    border: 2px solid #FFD600;
+    background-color: #FFD600;
+    margin-top: 20px;
+    color: black;
+
+}
+
+.card-group{
+    margin-top: 20px;
+    background-color: #FFD600;
+}
+
+.card w-50{
+    display: flex;
+}
+
+.text_2{
+   background-color: #FFD600;
+    text-align: center;
+    color: black;
+}
+
+.row{
+   
+   
+    text-align: center;
+}
+
+
+.card-text{
+    background-color: #FFD600;
+    color: black;
+}
+
+
+.copy_right{
+    font-size: small;
+    text-align: center;
+    color: black;
+    background-color: #FFD600;
+    
+}
